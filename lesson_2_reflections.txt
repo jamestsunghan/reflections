@@ -24,9 +24,11 @@ organized? How would branches help?
 
 If you want to try some functions of versions which is experimental or aside from the main feature,we may use branches to try out, and it will make the least impact for the main versions.
 
-How do the diagrams help you visualize the branch structure?
+Q5 How do the diagrams help you visualize the branch structure?
 
 
+
+It helps me understand the relation between different commit in different branches, and the positions of the commit in different branches visually.
 
 What is the result of merging two branches together? 
 
