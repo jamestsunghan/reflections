@@ -37,5 +37,8 @@ the diagram the way we do?
 
 It merges the coins branch to the master one, as we deleted the coins branch. Because it can trace back both commit in the origin two branches, and which they have their own parents after the merge. 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+Q7 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+Git's automatic merge save us some time, and won't forcely merge 2 commit when the objects or lines are slightly modified, even spaces.
