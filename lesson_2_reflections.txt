@@ -30,12 +30,12 @@ Q5 How do the diagrams help you visualize the branch structure?
 
 It helps me understand the relation between different commit in different branches, and the positions of the commit in different branches visually.
 
-What is the result of merging two branches together? 
-
-Why do we represent it in
+Q6 What is the result of merging two branches together?  Why do we represent it in
 the diagram the way we do?
 
 
+
+It merges the coins branch to the master one, as we deleted the coins branch. Because it can trace back both commit in the origin two branches, and which they have their own parents after the merge. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
