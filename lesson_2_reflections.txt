@@ -17,12 +17,12 @@ change?
 
 Check it by using "git diff" and "git diff --staged" to double check the changes before actually commit all the files. 
 
-What are some situations when branches would be helpful in keeping your history
-organized? 
-
-How would branches help?
+Q4 What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
 
 
+
+If you want to try some functions of versions which is experimental or aside from the main feature,we may use branches to try out, and it will make the least impact for the main versions.
 
 How do the diagrams help you visualize the branch structure?
 
