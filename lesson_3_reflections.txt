@@ -17,4 +17,6 @@ With google drives, and the collaboration need to be communicate beforehand prec
 If the project can be easily seperated into parts for different person, it would be easier to work without GitHub. If not, as like most of the projects, Git is easier.
 
 Q6 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
-Fill in your answer here
+When we want to have different features that don't want to affect to master branch.
+And as in fork, or GitHub, we need to make sure the owner of this repository, or people we collaborate with, agrees with this change.
+If not, it is not the situations mentioned above, it would be more simple to make changes directly in master. 
