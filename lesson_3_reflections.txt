@@ -10,7 +10,7 @@ Q3 Describe the differences between forks, clones, and branches.  When would you
 "branch "is a sery of commits that represent certain project,including the master. We create a new branch it when we want to try stuff that want affect the master branch right alongside.
 
 Q4 What is the benefit of having a copy of the last known state of the remote stored locally?
-Fill in your answer here
+It let us know what have we done so far compare to the remote repository. It works also as a reminder of updating, especially working collectively.
 
 Q5 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 Fill in your answer here
