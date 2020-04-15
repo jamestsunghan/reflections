@@ -2,7 +2,7 @@ Q1 When would you want to use a remote repository rather than keeping all your w
 When working along with other people,or work from different computers.
 
 Q2 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-Fill in your answer here
+As the git allows us to commit changes when we want, we might want to make every change logical, which means there won't be commits that comtains things we don't want, or on half way.
 
 Q3 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 Fill in your answer here
