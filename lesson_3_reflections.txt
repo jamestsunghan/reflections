@@ -5,7 +5,9 @@ Q2 Why might you want to always pull changes manually rather than having Git aut
 As the git allows us to commit changes when we want, we might want to make every change logical, which means there won't be commits that comtains things we don't want, or on half way.
 
 Q3 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
-Fill in your answer here
+"fork" is a copy from gitHub to our own GitHub, we use it when we need others repository on GitHub as our reference, and we would like to modify it;
+"clone" is a copy to our own local repository, we usually use it when we want to modify it.
+"branch "is a sery of commits that represent certain project,including the master. We create a new branch it when we want to try stuff that want affect the master branch right alongside.
 
 Q4 What is the benefit of having a copy of the last known state of the remote stored locally?
 Fill in your answer here
