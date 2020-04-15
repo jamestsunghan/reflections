@@ -13,7 +13,8 @@ Q4 What is the benefit of having a copy of the last known state of the remote st
 It let us know what have we done so far compare to the remote repository. It works also as a reminder of updating, especially working collectively.
 
 Q5 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
-Fill in your answer here
+With google drives, and the collaboration need to be communicate beforehand precisely, or else we might work on the same object, and have a conflict, and need to rewrite it afterwards.
+If the project can be easily seperated into parts for different person, it would be easier to work without GitHub. If not, as like most of the projects, Git is easier.
 
 Q6 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 Fill in your answer here
